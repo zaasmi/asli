@@ -1,9 +1,9 @@
-# vue-cart
+# Asli-cart
 
-> A Vue.js project
+> A ASLI Vue.js project
 > This project was made using vue, vuex and vue-router.
 
-### https://crisgon.github.io/vue-cart/dist/
+### https://zaasmi.github.io/asli/
 
 ![Shop Cart](https://i.imgur.com/yKYJdV3.gif)
 
